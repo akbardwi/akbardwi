@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Home**
 - 🌱 I’m currently learning **NodeJS, PHP, and Python** and can use **PHP FRAMEWORK CI4**
-- 📝 I regulary write articles on [Jendela Teknologi](https://jendelateknologi.com/)
+- 📝 I regulary write articles on [Pelajar.net](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**
 - ⚡ Fun fact: **Always making new things**
 </p>

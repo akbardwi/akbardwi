@@ -1,20 +1,3 @@
-<!--
-**mzcoder-hub/mzcoder-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1 align="center">Hi 👋, I'm Akbar Dwi Syahputra </h1>
 
 <p>
@@ -26,9 +9,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Always making new things**
 </p>
 
-<a href="https://github.com/akbardwi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbardwi&show_icons=true&theme=onedark" />
-</a><br/>
-<a href="https://github.com/akbardwi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbardwi&show_icons=true&theme=onedark&layout=compact" />
-</a>
+<h1 align="center">📈 Github Statistic 📊</h1>
+<p align="center">
+  <a href="https://github.com/akbardwi">
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akbardwi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akbardwi&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbardwi&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
+    <img width="44%" src="https://github-profile-trophy.vercel.app/?username=akbardwi&theme=onestar&column=4&margin-w=10&margin-h=10"/>
+    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=akbardwi&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+  </a>
+</p>

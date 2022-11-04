@@ -7,6 +7,7 @@
 - 📝 I regulary write articles on [Pelajar.net](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**
 - ⚡ Fun fact: **Always making new things**
+- 🧑 Completed profile you can check [Here](https://profile.akbardwi.my.id/)
 </p>
 
 <h1 align="center">📈 Github Statistic 📊</h1>

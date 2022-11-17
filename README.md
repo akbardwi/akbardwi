@@ -10,6 +10,13 @@
 - 🧑 Completed profile you can check [Here](https://profile.akbardwi.my.id/)
 </p>
 
+<h1 align="center">📛 Holopin Badges 🔰</h1>
+<p align="center">
+  <a href="https://holopin.io/@akbardwi">
+    <img src="https://holopin.me/akbardwi" alt="@akbardwi's Holopin board">
+  </a>
+</p>
+
 <h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
   <a href="https://github.com/akbardwi">
@@ -19,4 +26,32 @@
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=akbardwi&theme=onestar&column=4&margin-w=10&margin-h=10"/>
     <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=akbardwi&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
+</p>
+
+---
+<p align="center">
+  <a href="https://github.com/akbardwi/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=akbardwi&label=Profile%20views&style=flat-square" alt="Akbar Dwi Syahputra"/>
+    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Akbar Dwi Syahputra"/>
+    <!-- <img src="https://badges.pufler.dev/years/AzharRizky?style=flat-square" alt="Years Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/repos/AzharRizky?style=flat-square" alt="Repos Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/gists/AzharRizky?style=flat-square" alt="Gists Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/commits/monthly/AzharRizky?style=flat-square" alt="Commits Badge"/> -->
+    <img src="https://img.shields.io/github/followers/akbardwi?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/akbardwi?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
+    <img src="https://img.shields.io/github/stars/akbardwi?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
+    <img src="https://gpvc.arturio.dev/akbardwi" alt="Profile Views" height="20">
+    <img src="https://profile-counter.glitch.me/akbardwi/count.svg" height="20"/>
+  </a>
+  <!--
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/created/akbardwi/akbardwi?style=flat-square" alt="Created Badge"/>
+  </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/updated/akbardwi/akbardwi?style=flat-square" alt="Update Badge"/>
+  </a>
+  <a href="https://github.com/akbardwi/" target="_blank">
+      <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="Akbar Dwi Syahputra"/>
+  </a>
+  -->
 </p>

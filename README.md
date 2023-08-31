@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/github/followers/akbardwi?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/akbardwi?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/akbardwi?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
-    <img src="https://gpvc.arturio.dev/akbardwi" alt="Profile Views" height="20">
     <img src="https://profile-counter.glitch.me/akbardwi/count.svg" height="20"/>
   </a> 
 </p>

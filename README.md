@@ -32,7 +32,6 @@
 <p align="center">
   <a href="https://github.com/akbardwi/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=akbardwi&label=Profile%20views&style=flat-square" alt="Akbar Dwi Syahputra"/>
-    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="Akbar Dwi Syahputra"/>
     <img src="https://img.shields.io/github/followers/akbardwi?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/akbardwi?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
     <img src="https://img.shields.io/github/stars/akbardwi?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>

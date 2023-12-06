@@ -3,11 +3,11 @@
 <p>
 
 - 🔭 I’m currently working on **Home**
-- 🌱 I’m currently learning **NodeJS, PHP, and Python** and can use **PHP FRAMEWORK CI4**
+- 🌱 I’m currently learning **NodeJS, PHP, Python, Go, Docker, Codeigniter 4, and Laravel**
 - 📝 I regulary write articles on [Pelajar.net](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**
 - ⚡ Fun fact: **Always making new things**
-- 🧑 Completed profile you can check [Here](https://akbardwi.dev/)
+- 🧑 Completed profile you can check [here](https://akbardwi.dev/)
 </p>
 
 <h1 align="center">📛 Holopin Badges 🔰</h1>

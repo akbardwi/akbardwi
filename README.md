@@ -2,7 +2,7 @@
 
 <p>
 
-- 🔭 I’m currently working on **Home**
+- 🔭 I’m currently working on **Home** and I open to work
 - 🌱 I’m currently learning **NodeJS, PHP, Python, Go, Docker, Codeigniter 4, and Laravel**
 - 📝 I regulary write articles on [Pelajar.net](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**

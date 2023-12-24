@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Home** and I open to work
 - 🌱 I’m currently learning **NodeJS, PHP, Python, Go, Docker, Codeigniter 4, and Laravel**
-- 📝 I regulary write articles on [pelajar.net](https://pelajar.net/)
+- 📝 I regulary write articles on [Pelajar](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**
 - ⚡ Fun fact: **Always making new things**
 - 🧑 Completed profile you can check [here](https://akbardwi.dev/)

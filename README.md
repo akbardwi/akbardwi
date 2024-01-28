@@ -7,7 +7,7 @@
 - 📝 I regulary write articles on [Pelajar](https://pelajar.net/)
 - 📫 How to reach me: **admin@mail.akbardwi.my.id**
 - ⚡ Fun fact: **Always making new things**
-- 🧑 Completed profile you can check [here](https://akbardwi.dev/)
+- 🧑 Completed profile and portfolio you can check [here](https://akbardwi.dev/)
 </p>
 
 <h1 align="center">📛 Holopin Badges 🔰</h1>
